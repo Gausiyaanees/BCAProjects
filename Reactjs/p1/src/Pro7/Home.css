@@ -1,0 +1,33 @@
+img
+{
+    width: 250px;
+    height: 35vh;
+    border: 5px solid blue;
+    border-radius: 10%;
+    box-shadow: 5px darkred;
+    cursor:pointer;
+}
+.col-md-3
+{
+    margin:1-px;
+    padding: 4%;
+}
+.pink
+{
+    background-color: lightblue;
+}
+.green
+{
+    background-color: lightblue;
+}
+.red
+{
+    background-color: lightblue;
+}
+body{
+   background-image: url(SHOPPING/bgimage.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+
